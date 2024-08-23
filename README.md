@@ -1,4 +1,4 @@
-## Привет, меня зовут Дмитрий 👋
+## Привет, меня зовут Дмитрий! 👋
 
 <!--
 **BROOQUEEN/brooqueen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
